@@ -1,1 +1,1 @@
-alias hgrep=’history | grep’
+alias hgrep='history | grep'
