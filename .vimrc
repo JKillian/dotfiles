@@ -18,3 +18,6 @@
 
   set backup
   set ruler
+  
+  set wildmenu
+  set wildmode=longest:full,full
