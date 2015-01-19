@@ -21,3 +21,8 @@
   
   set wildmenu
   set wildmode=longest:full,full
+  
+" Buffer tweaks
+  set hidden
+  nnoremap <silent> <right> :bnext<cr>
+  nnoremap <silent> <left> :bprev<cr>
