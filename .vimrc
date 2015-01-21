@@ -12,7 +12,8 @@
   set autoindent
   set expandtab
   set smarttab
-  set smartindent
+  set autoindent
+  filetype plugin indent on
   set shiftwidth=3
   set softtabstop=3
 
