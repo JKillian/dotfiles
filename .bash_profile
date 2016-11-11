@@ -1,1 +1,1 @@
-if [ -f ~/.bashrc ]; then . ~/.bashrc; fi
+export DIFF=/usr/bin/diff
